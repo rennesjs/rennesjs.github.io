@@ -2,4 +2,4 @@
 
 > RennesJS is a usergroup focused on JavaScript and related topics.
 
-web site: [https://rennesjs.github.io/](https://rennesjs.github.io/)
+web site: [http://rennesjs.org](http://rennesjs.org)
