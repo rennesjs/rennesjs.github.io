@@ -32,3 +32,7 @@ footer.page-footer {
 .yellow-text {
   color: #fcd74d !important;
 }
+u {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
