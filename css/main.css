@@ -1,11 +1,28 @@
+img {
+  max-width: 100%;
+}
 .main {
   padding-bottom: 1rem;
 }
 .header-nav a:hover {
   background-color: #6d6d6d;
 }
+.description {
+  font-size: 1.2rem;
+}
 .card-panel .title {
   margin-top: 0;
+}
+.meetup {
+  font-size: 1.1rem;
+}
+.talks ul li,
+.agenda ul li {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+.agenda ul ul li {
+  list-style-type: circle;
 }
 .social a {
   margin: 0 .5rem 1rem;
@@ -20,8 +37,8 @@ footer.page-footer {
 }
 .page-footer,
 .page-footer a {
-  font-weight: bold;
   color: #6d6d6d;
+  font-weight: bold;
 }
 .page-footer a:hover {
   color: #4d4d4d;
@@ -33,6 +50,6 @@ footer.page-footer {
   color: #fcd74d !important;
 }
 u {
-  text-decoration: none;
   border-bottom: 1px dotted;
+  text-decoration: none;
 }
