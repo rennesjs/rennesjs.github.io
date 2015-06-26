@@ -7,4 +7,4 @@
 web site: [http://rennesjs.org](http://rennesjs.org)
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[gitter-url]: https://gitter.im/rennesjs
+[gitter-url]: https://gitter.im/rennesjs/rennesjs.github.io
