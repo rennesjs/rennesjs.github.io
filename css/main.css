@@ -8,13 +8,30 @@ img {
   background-color: #6d6d6d;
 }
 .description {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .card-panel .title {
   margin-top: 0;
 }
 .meetup {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+}
+.meetup .subscribe {
+   font-weight: bold;
+}
+.meetup .separator {
+  display: block;
+  width: 50%;
+  margin: 30px auto;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
+}
+.meetup .sponsor {
+  display: inline-block;
+  padding: 10px;
+  margin: auto 20px;
 }
 .talks ul li,
 .agenda ul li {
