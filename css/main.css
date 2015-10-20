@@ -71,3 +71,10 @@ u {
   border-bottom: 1px dotted;
   text-decoration: none;
 }
+.github-ribbon {
+  position: fixed;
+  top: 0;
+  right: 0;
+  border: 0;
+  z-index: 1000;
+}
