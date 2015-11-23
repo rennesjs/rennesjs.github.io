@@ -14,6 +14,10 @@ img {
   margin-top: 0;
   font-size: 2.28rem;
 }
+.card-panel .subtitle {
+  font-size: 1.64rem;
+  font-style: italic;
+}
 .meetup {
   font-size: 1.2rem;
 }
