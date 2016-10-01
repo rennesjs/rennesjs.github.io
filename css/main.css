@@ -76,10 +76,10 @@ footer.page-footer {
   color: #4d4d4d;
 }
 .yellow {
-  background-color: #fcd74d !important
+  background-color: #fed944 !important
 }
 .yellow-text {
-  color: #fcd74d !important;
+  color: #fed944 !important;
 }
 u {
   border-bottom: 1px dotted;
@@ -91,4 +91,13 @@ u {
   right: 0;
   border: 0;
   z-index: 1000;
+}
+.flash p {
+  background-color: #fed944;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  padding: 5px;
+}
+.flash p i {
+  vertical-align: top;
 }
