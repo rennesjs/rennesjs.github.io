@@ -47,6 +47,13 @@ img {
   max-width: 150px;
   vertical-align: middle;
 }
+.meetup .sponsor.sponsor--gold {
+  margin-bottom: 20px;
+}
+.meetup .sponsor.sponsor--gold img {
+  max-height: 180px;
+  max-width: 320px;
+}
 .talks ul li,
 .agenda ul li {
   list-style-type: disc;
