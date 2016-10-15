@@ -33,6 +33,10 @@ img {
   border-top: 1px solid #ccc;
   padding: 0;
 }
+.meetup .gold,
+.meetup .silver {
+  margin-bottom: 30px;
+}
 .meetup .sponsor {
   display: inline-block;
   padding: 10px;
@@ -47,12 +51,10 @@ img {
   max-width: 150px;
   vertical-align: middle;
 }
-.meetup .sponsor.sponsor--gold {
-  margin-bottom: 20px;
-}
 .meetup .sponsor.sponsor--gold img {
   max-height: 180px;
-  max-width: 320px;
+  max-width: 100%;
+  width: 400px;
 }
 .talks ul li,
 .agenda ul li {
