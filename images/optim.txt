@@ -1,1 +1,0 @@
-jpegoptim -m90 *.jpg --strip-all
