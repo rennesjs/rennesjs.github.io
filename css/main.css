@@ -18,6 +18,12 @@ img {
   font-size: 1.64rem;
   font-style: italic;
 }
+.card-panel .details {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1rem;
+}
 .meetup {
   font-size: 1.2rem;
 }
