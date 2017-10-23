@@ -39,28 +39,26 @@ img {
   border-top: 1px solid #ccc;
   padding: 0;
 }
-.meetup .gold,
-.meetup .silver {
-  margin-bottom: 30px;
-}
-.meetup .sponsor {
+.meetup .sponsor,
+.meetup .partner {
   display: inline-block;
   padding: 10px;
-  margin: auto 5px;
+  margin: 15px;
   border: 1px solid transparent;
+  transition: transform .2s ease-in-out;
 }
-.meetup .sponsor:hover {
-    border-color: #eee;
+.meetup .sponsor:hover,
+.meetup .partner:hover {
+  border-color: #eee;
+  transform: scale(1.1);
 }
 .meetup .sponsor img {
-  max-height: 90px;
-  max-width: 150px;
-  vertical-align: middle;
-}
-.meetup .sponsor.sponsor--gold img {
   max-height: 180px;
-  max-width: 100%;
   width: 400px;
+}
+.meetup .partner img {
+  max-height: 90px;
+  vertical-align: middle;
 }
 .talks ul li,
 .agenda ul li {
