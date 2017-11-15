@@ -1,0 +1,371 @@
+{
+    "previousTalks": {
+        "s04e01": {
+            "date": "Septembre 2017",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/e/2PACX-1vR4DjtNMdVRai8kznkae3jkJ9PXjmUtAJoAg5foZ2uTvnvCm6YZwBkvo5HO_Q-BLJMAHTPOu2CefF3F/pub"
+                },
+                {
+                    "title": "CSS, pourquoi tant de haine ?",
+                    "author": {
+                        "name": "Grégory Houllier",
+                        "twitter": "ghoullier"
+                    },
+                    "slides": "https://docs.google.com/presentation/d/e/2PACX-1vTO1dhlhM_5m9_hb3jrQ-kCPeSUIzZdcI7xKBLoMquUIfNCB2xq5oOKg-qGx5kRtX0sgdr0F1aM2z3K/pub",
+                    "video": ""
+                },
+                {
+                    "title": "Modules ES6 & HTTP/2 : Va-t-on arrêter de packager notre code JavaScript ?",
+                    "author": {
+                        "name": "Vincent Ogloblinsky",
+                        "twitter": "vogloblinsky"
+                    },
+                    "slides": "http://slides.com/vogloblinsky/modules-es6-http2-va-t-on-arreter-de-packager-notre-code-javascript",
+                    "video": ""
+                }
+            ]
+        },
+        "s03e06": {
+            "date": "Juin 2017",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/1TWiVEVs_nr0UhdRMsk5eUPPkyjHQI4UeDcPTS-AC2q4/pub"
+                },
+                {
+                    "title": "Polymer 2 : Découvrons ce que nous cache la version 2",
+                    "author": {
+                        "name": "Jean-Francois Garreau",
+                        "twitter": "jefbinomed"
+                    },
+                    "slides": "https://jef.binomed.fr/binomed_docs/Prezs/Polymer2Discovery/",
+                    "video": "http://www.youtube.com/watch?v=i4JBn8stbvA"
+                },
+                {
+                    "title": "Il n'y a pas que Polymer dans la vie…",
+                    "author": {
+                        "name": "Horacio Gonzalez",
+                        "twitter": "LostInBrittany"
+                    },
+                    "video": "http://www.youtube.com/watch?v=YdrMOpUMfY"
+                }
+            ]
+        },
+        "s03e05": {
+            "date": "Mai 2017",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/1e_nAtuEmibpT5wpkuCdwFgaowiN4JFLRL7LvxqoyUTQ/pub"
+                },
+                {
+                    "title": "Arunoda Susiripala, de MeteorJS à Next.js",
+                    "author": {
+                        "name": "Mickael Lecoq",
+                        "twitter": "mickael_lecoq"
+                    },
+                    "slides": "http://slides.com/mickaellecoq/arunoda-susiripala-de-meteorjs-a-next-js",
+                    "video": "http://www.youtube.com/watch?v=4ArFwJHV-D0"
+                },
+                {
+                    "title": "Pourquoi choisir Vue.js",
+                    "author": {
+                        "name": "Cédric LeGallo",
+                        "twitter": "legallocedric"
+                    },
+                    "video": "http://www.youtube.com/watch?v=gYIHL5I_qw"
+                }
+            ]
+        },
+        "s03e04": {
+            "date": "Février 2017",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/1wXkyxctieZkF8X72ixYnnodg-V4s4oLF8ozqBKrYGUE/pub"
+                },
+                {
+                    "title": "Il était une fois un plug-in atom",
+                    "author": {
+                        "name": "Benjamin Plouzennec",
+                        "twitter": "OkazariBzh"
+                    },
+                    "slides": "https://docs.google.com/presentation/d/1KFyTti_n87_9499S2O6KwnB_o9wTD5b4smzio6HWbsw/pub",
+                    "video": "http://www.youtube.com/watch?v=9pRj4bC-jQQ"
+                },
+                {
+                    "title": "TENON l'accessibilité à bout de bras",
+                    "author": {
+                        "name": "Cédric LeGallo",
+                        "twitter": "legallocedric"
+                    },
+                    "slides": "https://cedric-legallo.github.io/tenon-io-slides/",
+                    "video": "http://www.youtube.com/watch?v=PXXGxCi4Xs"
+                }
+            ]
+        },
+        "s03e03": {
+            "date": "Novembre 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/e/2PACX-1vSG2bnndO9avR7_y7XDJl-4uvdJKJiGiRFAWmNR-2n2uotg-X9gUvQ0ECo0KcGNLknpw5PwynfA6_Tm/pub"
+                },
+                {
+                    "title": "Tree Shaking : Déployer moins de code en production",
+                    "author": {
+                        "name": "Vincent Ogloblinsky",
+                        "twitter": "vogloblinsky"
+                    },
+                    "slides": "http://slides.com/vogloblinsky/tree-shaking-deployer-moins-de-code-en-production-2",
+                    "video": "http://www.youtube.com/watch?v=QS2LTuphrY0"
+                },
+                {
+                    "title": "La programmation Réactive avec RxJS et découverte de CycleJS",
+                    "author": {
+                        "name": "Benoit Averty",
+                        "twitter": "kaidjin"
+                    },
+                    "slides": "https://benoitaverty.github.io/slides/reactive-programming-and-cyclejs/",
+                    "video": "http://www.youtube.com/watch?v=7lQs6MhZck"
+                }
+            ]
+        },
+        "s03e02": {
+            "date": "Octobre 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/155xBoSqJjSf7TRMg4RYgIdX6WuMIjPmP8B5EpYwNGV8/pub"
+                },
+                {
+                    "title": "Angular 2 : des concepts à la pratique",
+                    "author": {
+                        "name": "Thierry Templier",
+                        "twitter": "templth"
+                    },
+                    "slides": "https://docs.google.com/presentation/d/18CeCigxsH3R8Rh7fcl03ExYUK4XV1MHd50hduIyolSg/pub",
+                    "video": "http://www.youtube.com/watch?v=2cN84GbhI4"
+                }
+            ]
+        },
+        "s03e01": {
+            "date": "Septembre 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "https://docs.google.com/presentation/d/1EiBCKs1qvQum2nDgtATQt1cbXkurNIddqfzwc3tICAI/pub"
+                },
+                {
+                    "title": "Performance Web : Enjeux, techniques et méthodologie",
+                    "author": {
+                        "name": "Damien Jubeau",
+                        "twitter": "DamienJubeau"
+                    },
+                    "slides": "http://www.slideshare.net/DamienJubeau/rennes-js-webperfdareboost-66751435",
+                    "video": "http://www.youtube.com/watch?v=eYoLmyBF0PI"
+                }
+            ]
+        },
+        "s02e08": {
+            "date": "Juin 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/15yE2zKr-Oq6WfCSkeJptk4Yg1dt9B1DWdM1S2XwujbE/pub"
+                },
+                {
+                    "title": "Vorlon.js : Web debug and node.js inspection",
+                    "author": {
+                        "name": "Etienne Margraff",
+                        "twitter": "meulta"
+                    },
+                    "slides": "http://rennesjs.org/talks/vorlonjs/vorlonjs.pdf",
+                    "video": "http://www.youtube.com/watch?v=P8lVNER9w24"
+                },
+                {
+                    "title": "Meet With Ember",
+                    "author": {
+                        "name": "Charles Duval",
+                        "twitter": "infoduv"
+                    },
+                    "slides": "http://www.infoduv.fr/meet_with_ember.pdf",
+                    "video": "http://www.youtube.com/watch?v=D_be5Me_lWI"
+                },
+                {
+                    "title": "Riot.js : Micro UI library",
+                    "author": {
+                        "name": "Fabrice Le Coz",
+                        "url": "https://www.meetup.com/fr-FR/RennesJS/members/145271332/"
+                    },
+                    "slides": "http://docs.google.com/presentation/d/1AXd2SN73osoU17NK6-1kIKJ0_dCNLHQxjpR-SeoZgj4/pub",
+                    "video": "http://www.youtube.com/watch?v=tIL7KRWP2o"
+                }
+            ]
+        },
+        "s02e07": {
+            "date": "Mai 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1QdIkqLRT-xsqZzGjGZEbLIwCXS0lOBJPu4Jju2sl3NQ/pub"
+                },
+                {
+                    "title": "Progressive Web Apps",
+                    "author": {
+                        "name": "Kevin Pennarun",
+                        "twitter": "kepennar"
+                    },
+                    "slides": "http://kepennar.github.io/slides-progressive-apps/",
+                    "video": "http://www.youtube.com/watch?v=RdAkG2DKmso"
+                },
+                {
+                    "title": "Les 22 étapes essentielles pour coder une sandbox en JS",
+                    "author": {
+                        "name": "Gildas Lormeau",
+                        "twitter": "check_ca"
+                    },
+                    "slides": "http://rennesjs.seo4ajax.com/S02E07/",
+                    "video": "http://www.youtube.com/watch?v=9lwckXIJE8"
+                }
+            ]
+        },
+        "s02e06": {
+            "date": "Avril 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1NdUVtYYHBoLVfLDuEGVZpwPBXf6tiwcPtixF3qgJB1c/pub"
+                },
+                {
+                    "title": "Meteor 1.3",
+                    "author": {
+                        "name": "Mickael Lecoq",
+                        "twitter": "mickael_lecoq"
+                    },
+                    "slides": "http://slides.com/mickaellecoq/meteor-js1-3/"
+                }
+            ]
+        },
+        "s02e055": {
+            "date": "BreizhCamp 2016",
+            "talks": [
+                {
+                    "title": "Introduction à la Programmation Fonctionnelle Reactive avec RxJS",
+                    "author": {
+                        "name": "Grégory Houllier",
+                        "twitter": "ghoullier"
+                    },
+                    "slides": "http://rennesjs.org/talks/introduction-a-la-programmation-reactive-fonctionnelle-avec-rjs/"
+                }
+            ]
+        },
+        "s02e05": {
+            "date": "Janvier 2016",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1SvhI2AJCAi6jMnQPYlZoSJbvi1ZMzi2w77cEoC7AcIcpub"
+                },
+                {
+                    "title": "Ionic The Hybrid Theory",
+                    "author": {
+                        "name": "François Eoche",
+                        "twitter": "feoche"
+                    },
+                    "slides": "http://slides.com/feoche/ionic-the-hybrid-ther"
+                }
+            ]
+        },
+        "s02e04": {
+            "date": "Septembre 2015",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1PYKUKn2qsWgevV9294GhMxyGrLPa3pQue-K5Hvv-Jk8/pub"
+                }
+            ]
+        },
+        "s02e02": {
+            "date": "Octobre 2015",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1STn3zoECX8-Yn_7DVYoiXaE_jRtwhRki8qbPtREjlsk/pub"
+                }
+            ]
+        },
+        "s02e01": {
+            "date": "Septembre 2015",
+            "talks": [
+                {
+                    "title": "Introduction",
+                    "slides": "http://docs.google.com/presentation/d/1aytBf5SPz0xrV-YeP0n4fXV0dG_kWSHPUlP7dVo57SA/pub"
+                }
+            ]
+        },
+        "s01e01": {
+            "date": "BreizhCamp 2015",
+            "talks": [
+                {
+                    "title": "45 Tools to Boost Your Front-End",
+                    "author": {
+                        "name": "Nicolas Pennec",
+                        "twitter": "nicopennec"
+                    },
+                    "slides": "http://fr.slideshare.net/NicoPennec/45-toolstoboostyourfrontend",
+                    "video": "http://www.youtube.com/watch?v=D67WubvgGWM"
+                },
+                {
+                    "title": "ES6 dès aujourd'hui avec BabelJS",
+                    "author": {
+                        "name": "Grégory Houllier",
+                        "twitter": "ghoullier"
+                    },
+                    "slides": "http://rennesjs.org/talks/es6-des-ajourdhui-avec-babeljs/",
+                    "video": "http://www.youtube.com/watch?v=Y9iT1Pmf5X0"
+                },
+                {
+                    "title": "Angular 2, le reveil de la force",
+                    "author": {
+                        "name": "Nicolas Pennec & Grégory Houllier",
+                        "twitter": "nicopennec"
+                    },
+                    "slides": "http://rennesjs.org/talks/angular-2-le-reveil-de-la-force/",
+                    "video": "http://www.youtube.com/watch?v=IWJqj9y5tO4"
+                }
+            ]
+        }
+    },
+    "sponsors": [
+        {
+            "name": "Zenika",
+            "url": "https://www.zenika.com/",
+            "img": "images/logo-zenika.png"
+        },
+        {
+            "name": "Netapsys",
+            "url": "https://www.netapsys.fr/",
+            "img": "images/logo-netapsys.png"
+        },
+        {
+            "name": "Creative",
+            "url": "http://www.groupe-creative.fr/",
+            "img": "images/logo-creative.png"
+        }
+    ],
+    "partners": [
+        {
+            "name": "La French Tech Rennes St Malo",
+            "url": "http://lafrenchtech-rennes.fr/",
+            "img": "images/logo-laftr.png"
+        },
+        {
+            "name": "Association BreizhCamp",
+            "url": "http://www.breizhcamp.org/asso/",
+            "img": "images/logo-Breizhcamp.png"
+        }
+    ]
+}
