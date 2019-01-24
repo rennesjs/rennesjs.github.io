@@ -57,7 +57,7 @@ img {
 }
 .meetup .sponsor img {
   max-height: 180px;
-  width: 400px;
+  /*max-width: 400px;*/
 }
 .meetup .partner img {
   max-height: 90px;
